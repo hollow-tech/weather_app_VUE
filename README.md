@@ -1,4 +1,4 @@
-This is weather app made with Vue.js.
+This is a weather app made with Vue.js.
 There is a Widget among the files.
 
 # weather-app
